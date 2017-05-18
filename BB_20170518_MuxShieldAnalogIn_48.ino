@@ -15,7 +15,7 @@ void setup()
   muxShield.setMode(2, ANALOG_IN);
   muxShield.setMode(3, ANALOG_IN);
 
-  Serial.begin(19200);
+  Serial.begin(9600);
 }
 
 //Arrays to store analog values after recieving them
