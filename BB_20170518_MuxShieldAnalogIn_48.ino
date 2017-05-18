@@ -6,7 +6,7 @@
 MuxShield muxShield;
 
 // global References
-int reference = 600;
+int reference = 700;
 
 void setup()
 {
